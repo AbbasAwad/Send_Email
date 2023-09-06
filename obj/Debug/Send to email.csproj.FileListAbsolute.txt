@@ -1,0 +1,11 @@
+E:\Windows Form Applocations\Send to email\bin\Debug\Send to email.exe.config
+E:\Windows Form Applocations\Send to email\bin\Debug\Send to email.exe
+E:\Windows Form Applocations\Send to email\bin\Debug\Send to email.pdb
+E:\Windows Form Applocations\Send to email\obj\Debug\Send to email.csproj.AssemblyReference.cache
+E:\Windows Form Applocations\Send to email\obj\Debug\Send to email.csproj.SuggestedBindingRedirects.cache
+E:\Windows Form Applocations\Send to email\obj\Debug\Send_to_email.Form1.resources
+E:\Windows Form Applocations\Send to email\obj\Debug\Send_to_email.Properties.Resources.resources
+E:\Windows Form Applocations\Send to email\obj\Debug\Send to email.csproj.GenerateResource.cache
+E:\Windows Form Applocations\Send to email\obj\Debug\Send to email.csproj.CoreCompileInputs.cache
+E:\Windows Form Applocations\Send to email\obj\Debug\Send to email.exe
+E:\Windows Form Applocations\Send to email\obj\Debug\Send to email.pdb
